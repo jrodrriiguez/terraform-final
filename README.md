@@ -1,5 +1,6 @@
 # Final Assessment - Option 2 
-
+## $${\color{red}Verified-on-02.April.2026.}$$
+No additional commits will be verified.
 ## Overview
 
 This project deploys AWS infrastructure using Terraform.
